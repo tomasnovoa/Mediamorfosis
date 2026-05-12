@@ -1,0 +1,328 @@
+fileFormatVersion: 2
+guid: 691b0033e9fb34048bdfb4836bb5c698
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Form_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1117
+        width: 636
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6842b174daa7fb4bb3b1f88c1ba6888
+      internalID: 1924408925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Form_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 956
+        width: 636
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d573fad73e56ad74eba40103c4414c4f
+      internalID: 1574306032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Form_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 794
+        width: 636
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56260b2b780706d4997d7a5a90136b33
+      internalID: -498640254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Form_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 636
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a312cf9de3e98545a9c7cdc64342333
+      internalID: -2140469968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Form_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 636
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd855ba34342404fb634a87d89346de
+      internalID: -380995742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bae8305f414342947923228c043b6da4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Form_0: 1924408925
+      Form_1: 1574306032
+      Form_10: 1603832110
+      Form_11: 693111456
+      Form_12: 1939017366
+      Form_13: -498640254
+      Form_14: -74339892
+      Form_15: -9408115
+      Form_16: 907824284
+      Form_17: 1322005740
+      Form_18: 1039467387
+      Form_19: -917978608
+      Form_2: 832058989
+      Form_20: 1066354189
+      Form_21: -1230008273
+      Form_22: 1696588637
+      Form_23: -1626168012
+      Form_24: 324490721
+      Form_25: 570306036
+      Form_26: -1522668746
+      Form_27: -471379204
+      Form_28: 655467756
+      Form_29: -2140469968
+      Form_3: 2030620078
+      Form_30: -212931216
+      Form_31: -380995742
+      Form_32: -832448469
+      Form_33: 2133516429
+      Form_34: 2029919798
+      Form_35: 1728217900
+      Form_36: 1063852280
+      Form_37: 558343099
+      Form_38: 1628977138
+      Form_39: 1832104816
+      Form_4: 1485019496
+      Form_40: 469991838
+      Form_41: -1187712855
+      Form_42: 355702823
+      Form_43: 1041328782
+      Form_44: -1610585035
+      Form_45: -1681843798
+      Form_46: 1738429776
+      Form_47: 498174309
+      Form_48: 507609892
+      Form_49: 711306209
+      Form_5: -258257166
+      Form_50: -719387232
+      Form_51: 1201950396
+      Form_52: -1223508979
+      Form_53: -934202318
+      Form_54: 140907217
+      Form_55: 1217243786
+      Form_56: -896375776
+      Form_57: -806347003
+      Form_58: 1895381631
+      Form_59: -1095184672
+      Form_6: 1534016756
+      Form_60: 296916942
+      Form_61: 873271301
+      Form_62: 1723714721
+      Form_63: 8674796
+      Form_64: 968900518
+      Form_65: 984566597
+      Form_66: 1165981349
+      Form_67: 317009726
+      Form_68: 1234016398
+      Form_69: -290608108
+      Form_7: 1575754770
+      Form_70: 1884092743
+      Form_71: -1035725189
+      Form_72: -677072335
+      Form_8: 2123339227
+      Form_9: -1056741942
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
